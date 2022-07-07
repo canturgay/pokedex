@@ -1,0 +1,7 @@
+dist/
+pokevenv/
+__pycache__/
+.vscode/
+.env
+pokemon.csv
+api/
