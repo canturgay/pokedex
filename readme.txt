@@ -1,6 +1,4 @@
-This is Can Turgay's response to [this](https://nebula-hourglass-e2f.notion.site/The-Pok-mon-API-Full-Stack-Coding-Challenge-22f3109f05264a3b94c69f0098dc4b07) fullstack challenge
-
-the application needs a Database with given "pokemon" table loaded.
+This is Can Turgay's response to [this](https://nebula-hourglass-e2f.notion.site/The-Pok-mon-API-Full-Stack-Coding-Challenge-22f3109f05264a3b94c69f0098dc4b07) the application needs a Database with given "pokemon" table loaded.
 here is the sql command for it:
 
 CREATE TABLE IF NOT EXISTS public.pokemons
