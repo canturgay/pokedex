@@ -1,4 +1,4 @@
-This is Can Turgay's response to [this full-stack challenge](https://nebula-hourglass-e2f.notion.site/The-Pok-mon-API-Full-Stack-Coding-Challenge-22f3109f05264a3b94c69f0098dc4b07/) 
+#### This is Can Turgay's response to [this full-stack challenge](https://nebula-hourglass-e2f.notion.site/The-Pok-mon-API-Full-Stack-Coding-Challenge-22f3109f05264a3b94c69f0098dc4b07/) 
 
 The application needs a Database with given "pokemon" table loaded.
 Here is the sql command for it:
@@ -30,11 +30,11 @@ browser
 http://localhost:5000/
 
 
-##app.py
+#### app.py
 Here is a minimal flask app as backend
 - If the application is in debug mode it will just proxy front-end server. Otherwise (in production) serve the static files.
 
-##/frontend/src/components/Pokedex.value
+#### /frontend/src/components/Pokedex.value
 Here is the frontend logic.
 It utilizes following libraries
 - bootstrap-vue
