@@ -27,7 +27,7 @@ open new terminal
 >> npm run start-ui
 
 browser
-http://127.0.0.1:5000/
+http://localhost:5000/
 
 
 ##app.py
