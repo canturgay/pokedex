@@ -3,7 +3,7 @@ This is Can Turgay's response to [this full-stack challenge](https://nebula-hour
 The application needs a Database with given "pokemon" table loaded.
 Here is the sql command for it:
 
-CREATE TABLE IF NOT EXISTS public.pokemons
+>>CREATE TABLE IF NOT EXISTS public.pokemons
 (
     id integer NOT NULL,
     identifier character varying(30) COLLATE pg_catalog."default" NOT NULL,
