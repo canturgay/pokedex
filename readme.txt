@@ -1,6 +1,6 @@
 This is Can Turgay's response to fullstack challeng#e
 
-the application needs a Database with given "pokemon" table loaded
+the application needs a Database with given "pokemon" table loaded.
 here is the sql command for it:
 
 CREATE TABLE IF NOT EXISTS public.pokemons
@@ -19,21 +19,18 @@ CREATE TABLE IF NOT EXISTS public.pokemons
 requirements are listed in requirements.txt
 required environmental variables are listed ins example.env
 
-new terminal
-cd root
->> pip install requirements.txt
->> flask run
-
-new terminal
->> cd frontend
->>npm run dev
+open new terminal
+cd to the root of this folder
+>> npm run start-api
+open new terminal
+>> npm run start-ui
 
 browser
 http://127.0.0.1:5000/
 
 
 ##app.py
-Here is a minimal flask app which is the main entry point
+Here is a minimal flask app as backend
 - If the application is in debug mode it will just proxy front-end server. Otherwise (in production) serve the static files.
 
 ##/frontend/src/components/Pokedex.value
