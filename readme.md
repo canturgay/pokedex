@@ -22,6 +22,7 @@ required environmental variables are listed ins example.env
 open new terminal
 cd to the root of this folder
 >> npm run start-api
+
 open new terminal
 >> npm run start-ui
 
